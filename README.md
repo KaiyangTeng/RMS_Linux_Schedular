@@ -22,14 +22,14 @@ This project was developed for CS423 Spring 2026 MP2: *Rate-Monotonic CPU Schedu
 
 ## Repository Structure
 
-
+```text
 .
 ├── mp2.c         # Kernel module implementation
 ├── userapp.c     # User-space periodic workload generator
 ├── mp2_given.h   # Helper definitions provided by the course
 ├── Makefile      # Kernel module build file
 └── README.md
-
+```
 
 ## Features
 
