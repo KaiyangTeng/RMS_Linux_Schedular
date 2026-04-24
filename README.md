@@ -1,5 +1,5 @@
 
-# MP2: Rate-Monotonic Scheduler Kernel Module
+# Rate-Monotonic Scheduler Kernel Module
 
 ## Overview
 
